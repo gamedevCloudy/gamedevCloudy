@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevCloudy&show_icons=ture&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gamedevCloudy)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gamedevCloudy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
