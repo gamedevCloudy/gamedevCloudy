@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gamedevCloudy
-- 👀 I’m interested in Game Development with Unity 
-- 🌱 I’m currently learning the same. 
-- 💞️ I’m looking to collaborate on Games.
+- 👀 I’m interested in Game Development with Unity, I like storytelling that's where I am headed with my games. 
+- 🌱 I’m currently learning the same and working as a Jr. Game Programmer @ ZippyCreativeStuios. 
+- 💞️ I’m looking to collaborate on Games & Creating something cool. 
 - 📫 How to reach me : acaayush1111@gmail.com
 
 <!---
