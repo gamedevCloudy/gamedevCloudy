@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Games & Creating something cool. 
 - 📫 How to reach me : acaayush1111@gmail.com
 
+![profile count](https://komarev.com/ghpvc/?username=gamedevCloudy&color=red)&nbsp;
+[![GitHub gamedevCloudy](https://img.shields.io/github/followers/gamedevCloudy?label=follow&style=social)](https://github.com/gamedevCloudy)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 <!---
 gamedevCloudy/gamedevCloudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
