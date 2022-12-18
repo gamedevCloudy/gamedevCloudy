@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gamedevCloudy
-- 👀 I’m interested in Game Development with Unity, I like storytelling that's where I am headed with my games. 
-- 🌱 I’m currently learning the same and working as a Jr. Game Programmer @ ZippyCreativeStuios. 
-- 💞️ I’m looking to collaborate on Games & Creating something cool. 
-- 📫 How to reach me : acaayush1111@gmail.com
+- 👀 product/design obsessive
+- 🌱 Craftsman by code. 
+- 💞️ I’m looking to collaborate on Games & Creating something  cool!
+- 📫 How to reach me : aaayush.dev@gmial.com
 
 ![profile count](https://komarev.com/ghpvc/?username=gamedevCloudy&color=red)&nbsp;
 [![GitHub gamedevCloudy](https://img.shields.io/github/followers/gamedevCloudy?label=follow&style=social)](https://github.com/gamedevCloudy)&nbsp;
