@@ -15,7 +15,7 @@
 ![Engines](https://img.shields.io/badge/-engine-blueviolet.svg?style=for-the-badge) 
 ![Unity](https://img.shields.io/badge/-unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black) 
 ![Unreal](https://img.shields.io/badge/-unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![Godot](https://img.shields.io/badge/-godot-478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white) 
+
 
 ![Web](https://img.shields.io/badge/-web-blueviolet.svg?style=for-the-badge)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 <br>
@@ -27,7 +27,7 @@
 
 ![Art](https://img.shields.io/badge/-art-ff69b4?style=for-the-badge)  ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)<br> 
 
-![Productivity](https://img.shields.io/badge/-productivity-ff69b4?style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)
+![Productivity](https://img.shields.io/badge/-productivity-ff69b4?style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 ![DSci](https://img.shields.io/badge/data%20sci-loading...-brightgreen?style=for-the-badge) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![TF](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
