@@ -43,12 +43,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=gamedevCloudy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gamedevCloudy&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevCloudy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=HLSL,shaderlab)
-
-### ✍️ Random Dev Quote
+---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gamedevCloudy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gamedevCloudy&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![@gamedevcloudy1's Holopin board](https://holopin.me/gamedevcloudy1)](https://holopin.io/@gamedevcloudy1)
