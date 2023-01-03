@@ -1,11 +1,17 @@
 # 💫 About Me:
-- 👋 Hi, I’m @gamedevCloudy<br>- 👀 product/design obsessive<br>- 🌱 Craftsman by code. <br>- 💞️ I’m looking to collaborate on Games & Creating something  cool!<br>- 📫 How to reach me : aaayush.dev@proton.me
+- 👋 Hi, I’m Aayush<br>- 👀 product/design obsessive<br>- 🌱 Craftsman by code. <br>- 💞️ I’m looking to collaborate on Games & Creating something  cool!<br>- 📫 How to reach me : aaayush.dev@proton.me
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/cloudy#5713) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayush.px) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-chaudhary-2b7b99208/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aayush_cloudy) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/aayushchaudharygames) 
+[![GitHub gamedevCloudy](https://img.shields.io/github/followers/gamedevCloudy?label=follow&style=social&)](https://github.com/gamedevCloudy)&nbsp;
+
+![Visitor count](https://komarev.com/ghpvc/?username=gamedevCloudy&color=green&style=for-the-badge)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success?style=for-the-badge)
+
+
 
 # 💻 Tech Stack:
 ![Langs](https://img.shields.io/badge/-Langs-blueviolet.svg?style=for-the-badge)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -42,10 +48,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-![Visitor count](https://komarev.com/ghpvc/?username=gamedevCloudy&color=red)&nbsp;
-[![GitHub gamedevCloudy](https://img.shields.io/github/followers/gamedevCloudy?label=follow&style=social)](https://github.com/gamedevCloudy)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gamedevCloudy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
