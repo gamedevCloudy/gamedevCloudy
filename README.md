@@ -35,7 +35,7 @@ Hello, I'm <b>Aayush</b>, a passionate developer with a diverse range of interes
 | flix-cli                          | Similar tool for movies, contributing to local media streaming        | [Visit](https://github.com/DemonKingSwarn/flix-cli)     |
 
 
-<div class="finePrint">*more but you wouldn't be intrested in reading HTML CSS right?</div>
+<div style="font-size: 0.5rem;">*more but you wouldn't be intrested in reading HTML CSS right?</div>
 
 &nbsp;
 
@@ -47,7 +47,7 @@ Hello, I'm <b>Aayush</b>, a passionate developer with a diverse range of interes
 | [Blue Zone](https://github.com/gamedevCloudy/BlueZone-Genetic-Algorithm) | [Itch.io](https://cloudyin.itch.io/) | [Copper](https://github.com/gamedevCloudy/reading-app) | [Flix-CLi](https://github.com/gamedevCloudy/flix-cli) | 
 | [Fire Avoidance](https://github.com/gamedevCloudy/Fire-Avoidance-AI-Simulation) | [BomberBoy](https://aayushakacloudy.is-a.dev/work/bomber-boy/)| [Beth To Do](https://github.com/gamedevCloudy/beth-todo) | |
 
-<div class="finePrint">*warning! a lot of projects were killed to get here.</div>
+<div style="font-size: 0.5rem;>*warning! a lot of projects were killed to get here.</div>
 
 &nbsp;
 
@@ -57,13 +57,8 @@ Hello, I'm <b>Aayush</b>, a passionate developer with a diverse range of interes
 ![Tier](https://github-readme-stats.vercel.app/api?username=gamedevCloudy&hide_border=true&include_all_commits=true&count_private=true&theme=dracula)
 
 </div>
-<div class="finePrint">*if i included HTML, you'd call me a web dev.</div>
 
-<style>
-  .finePrint{
-    font-size: 0.5rem; 
-  }
-</style>
+<div style="font-size: 0.5rem; ">*if i included HTML, you'd call me a web dev.</div>
 
 ---
 Iteration:  v27
