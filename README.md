@@ -53,7 +53,7 @@ Hello, I'm <b>Aayush</b>, a passionate developer with a diverse range of interes
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevCloudy&hide_border=true&include_all_commits=true&count_private=true&hide=HLSL,HTML,CSS,shaderlab&theme=dracula)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevCloudy&hide_border=true&include_all_commits=true&count_private=true&hide=HLSL,HTML,CSS,Mathematica,shaderlab&theme=dracula)
 ![Tier](https://github-readme-stats.vercel.app/api?username=gamedevCloudy&hide_border=true&include_all_commits=true&count_private=true&theme=dracula)
 
 </div>
